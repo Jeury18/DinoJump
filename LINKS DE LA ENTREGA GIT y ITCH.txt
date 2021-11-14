@@ -1,0 +1,13 @@
+
+Profe En la entrega del videojuego cuando fui a compilarlo para subirlo a las plataformas
+UNITY me corrompio unas cuantas librerias que estaba usando para el diseño del juego lo cual
+afecto a mi proyecto, eso fue lo que pude recuperar en todo lo que hice del juego espero ya que
+las colisiones de las monedas y de la vidad cuando el player cochara con el enemigo perdiera vida
+y tambien si tocaba la moneda el contador de la esquina superior derecha aumentara pero eso no me
+funciono despues que recupere una parte y ya no sabia que mas hacer porque daño muchas cosas, espero 
+y me entieda, muchas gracias.
+
+
+LINK ITCH: https://jeury1816.itch.io/dinojump
+LINK GITHUB: https://github.com/Jeury18/DinoJump
+LINK DRIVE: https://drive.google.com/drive/folders/13AebnUYD31M1A8B0luQliMrq7LhrsWTM?usp=sharing
